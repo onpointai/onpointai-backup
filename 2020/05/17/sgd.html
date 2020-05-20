@@ -1,0 +1,50 @@
+<h2 id="gradient-descent---the-essence-of-machine-learning">Gradient Descent - The Essence of Machine Learning</h2>
+
+<p>The Loss Function</p>
+
+<p>ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
+If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss.
+The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.</p>
+
+<p>Below is a regressing example. The pick dots are the intial set of data. To this we have to find a general approximation that will satisfy any new points.<br>
+Our initial guess is the black line.<br>
+<img src="/images/sgd-1.png" alt="Start"></p>
+
+<p>We then go through the fllowing sequence:
+Loss = New Value - Actual Value
+Find slope of the loss function
+Move down the loss curve by a small amount (the Learning Rate)
+Find the new loss</p>
+
+<p><a href="http://www.youtube.com/watch?v=rLf_0gN3NFo" title="SGD"><img src="http://img.youtube.com/vi/rLf_0gN3NFo/0.jpg" alt=""></a></p>
+
+<blockquote>
+  <p>Pytorch implementation</p>
+</blockquote>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>y is the actual
+y_hat is the prediction (based on a set of weights a)
+loss is the mean squared error between y_hat and y
+
+
+def mse(y_hat,y):
+    return((y_hat-y)**2).mean()
+
+def update():
+    y_hat = x@a
+    loss=mse(y_hat,y)
+    loss.backward()
+    with torch.no_grad():
+        a.sub_(lr * a.grad)
+        a.grad.zero_()
+</code></pre></div></div>
+<h4 id="references">References:</h4>
+<ol>
+  <li><a href="https://course.fast.ai/videos/?lesson=2">Fast.ai</a></li>
+  <li><a href="https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/">Machine Learning Mastery</a></li>
+</ol>
+
+<p><a href="%22https://github.githubassets.com/images/icons/emoji/bowtie.png?v8%22">D</a>
+<img class="emoji" title=":bowtie:" alt=":bowtie:" src="https://github.githubassets.com/images/icons/emoji/bowtie.png" height="20" width="20">
+—
+<img src="/images/aero-robot-with-logo-small.png" alt=""><img src="/images/onpointai-logo-small.png" alt=""></p>

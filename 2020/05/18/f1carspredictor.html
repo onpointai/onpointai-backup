@@ -1,0 +1,37 @@
+<h2 id="f1-cars-predictor">F1 cars predictor</h2>
+
+<p>Precict which team a car belongs to by analysing an image. The image can be from any angle.
+This is an end-to-end example.</p>
+
+<p><a href="https://github.com/DexterDSilva/f1cars-detector">Look here for Setup and Results</a></p>
+
+<p>This is a good example of a complete workflow</p>
+<ul>
+  <li>collecting data using google web search (local)</li>
+  <li>cleaning the data (removing duplicate images and other rubbish) (local)</li>
+  <li>porting data to Google Colab - When i was doing this I did not have my Github a/c organised properly<br />
+  Otherwise I would have done git init and ported the local repo to github<br />
+  From Google Colab it is easy to clone the Github repo</li>
+  <li>Once the data is in repo start a new jupyter notebook and select a GPU for training.</li>
+  <li>Download the trained model to the local dir</li>
+  <li>Modify the webapp to point to the trained model and do the predictions</li>
+</ul>
+
+<p>Note: I only used about 75 images per class (10 classes) to cut down on the training time.</p>
+
+<p>I used Fastai’s recommended Starlette web api and with a bit of playing around with the css and html file got something suitable.</p>
+
+<p>This is only meant for demo purposes and to motivate me to carry on with the ret of the course.</p>
+
+<p>Suggested Improvements:</p>
+<ul class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Add more training data</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Clean training data</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Overfit and then play around with hyperparameters</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />Give webapp better UI</li>
+</ul>
+
+<blockquote>
+  <h2 id="note-to-self-put-results-on-this-page-too">Note to self: Put results on this page too.</h2>
+  <p><img src="/images/aero-robot-with-logo-small.png" alt="" /><img src="/images/onpointai-logo-small.png" alt="" /></p>
+</blockquote>

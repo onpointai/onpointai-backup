@@ -1,6 +1,11 @@
-## F1 cars predictor
-
-Precict which team a car belongs to by analysing an image. The image can be from any angle.
+---
+toc: true
+layout: post
+description: Predict the constructor of the F1 car (image) 2017-2020 season
+categories: [markdown]
+title: Predict F1 Car Constructor from Image
+---
+Predict which team a car belongs to by analysing an image. The image can be from any angle.
 This is an end-to-end example.
 
 [Look here for Setup and Results](https://github.com/DexterDSilva/f1cars-detector)

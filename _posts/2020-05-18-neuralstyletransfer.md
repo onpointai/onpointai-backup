@@ -1,6 +1,11 @@
-## Neural Style Transfer
-
-As a wokflow exercise I attempted to render the image of an F1 car in the style of Picasso!
+---
+toc: true
+layout: post
+description: Desc - Render F1 car images in the style of Picasso
+categories: [markdown]
+title: Style Transfer using Neural Networks
+---
+As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso!
 I used images of recent Racing Point and Renault F1 cars.
 
 I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)

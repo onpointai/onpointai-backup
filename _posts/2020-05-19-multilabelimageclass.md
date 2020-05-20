@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Desc - Movie genre classification using movie posters
 categories: [markdown]
-title: Multi-label Image Classification--
+title: Multi-label Image Classification
 ---
 This is a tutorial from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/#)
 

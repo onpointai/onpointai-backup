@@ -21,7 +21,7 @@ The other area of interest is exploring the use of AI to analyse the huge amount
 Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_yrt)
 
 ## Online courses with certificates
-- [x] [Coursera/Stanford](/images/coursera-1.png)
+- [x] [Coursera/Stanford](../images/coursera-1.png)
 - [x] [Deep Learning - AI for Everyone](images/DL-AiForEveryone.png)
 - [x] [Zero to Deep Learning](images/Zero-to-DL.png)
 - [x] [Deep Learning in Python](images/DL-in-Python.png)

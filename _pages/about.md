@@ -21,22 +21,22 @@ The other area of interest is exploring the use of AI to analyse the huge amount
 Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_yrt)
 
 ## Online courses with certificates
-- [x] [Coursera/Stanford](../images/coursera-1.png)
-- [x] [Deep Learning - AI for Everyone](images/DL-AiForEveryone.png)
-- [x] [Zero to Deep Learning](images/Zero-to-DL.png)
-- [x] [Deep Learning in Python](images/DL-in-Python.png)
-- [x] [Supervised Learning - Scikit Learn](images/SuperLearn_ScikitLearn.png)
-- [x] [NLP - Python](images/NLP-Python.png)
-- [x] [Statistical Thinking in Python](images/Statistical-Python-1.png)
-- [x] [Unsupervised Learning with Python](images/Unsupervised-Learning-python.png)
-- [x] [Intermediate Python for Data Science](images/Intermediate-Python-for-DS)
-- [x] [Introduction Python for Data Science](images/Introd-PythonforDS.png)
-- [x] [Pandas Foundation](images/Pandas-Foundation.png)
+- [x]  [Coursera/Stanford](../images/coursera-1.png)
+- [x]  [Deep Learning - AI for Everyone](../images/DL-AiForEveryone.png)
+- [x]  [Zero to Deep Learning](../images/Zero-to-DL.png)
+- [x]  [Deep Learning in Python](../images/DL-in-Python.png)
+- [x]  [Supervised Learning - Scikit Learn](../images/SuperLearn_ScikitLearn.png)
+- [x]  [NLP - Python](images/NLP-Python.png)
+- [x]  [Statistical Thinking in Python](../images/Statistical-Python-1.png)
+- [x]  [Unsupervised Learning with Python](../images/Unsupervised-Learning-python.png)
+- [x]  [Intermediate Python for Data Science](../images/Intermediate-Python-for-DS)
+- [x]  [Introduction Python for Data Science](../images/Introd-PythonforDS.png)
+- [x]  [Pandas Foundation](../images/Pandas-Foundation.png)
 
 ## Other Online Courses
 - [x] [Fast.ai](https://course.fast.ai)
 
 ##### [Inspired by Fast.ai](https://www.fast.ai/2020/01/16/fast_template/)
 ---
-![](images/aero-robot-with-logo-small.png)                ![](images/onpointai-logo-small.png)
+![](../images/aero-robot-with-logo-small.png)                ![](../images/onpointai-logo-small.png)
 ---

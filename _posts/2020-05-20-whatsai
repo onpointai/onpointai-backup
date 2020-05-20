@@ -1,1 +1,14 @@
+---
+toc: true
+layout: post
+description: What is AI / Machine Learning?
+categories: [markdown]
+title: An Overview of AI/ML
+---
+ML is a subset of AI (diagram of AI/ML/DL)
 
+Deep Learning is the use of neural netowrks (what is nn?)
+
+[](../images/ai-makeup.png)
+
+[](../fastai-avenues.png)

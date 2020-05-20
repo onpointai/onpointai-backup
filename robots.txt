@@ -1,1 +1,1 @@
-Sitemap: https://onpointai.github.io/tempfastpages/sitemap.xml
+Sitemap: https://onpointai.github.io/onpointai/sitemap.xml

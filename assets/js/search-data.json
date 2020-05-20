@@ -13,10 +13,10 @@
   
     
         ,"post1": {
-            "title": "Neuralstyletransfer",
-            "content": "Neural Style Transfer . As a wokflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars. . I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!) . The resulting images were very similar. . Look here for Setup and Results . Loss = distance((style(reference_image) - style(generated_image)) + (distance(content(original_image) - content(generated_image)) original_image = a picture of an F1 car reference_image = a style image such as Picasso . Note to self: Put results on this page too. . . .",
-            "url": "https://onpointai.github.io/onpointai/2020/05/18/neuralstyletransfer.html",
-            "relUrl": "/2020/05/18/neuralstyletransfer.html",
+            "title": "Style Transfer using Neural Networks",
+            "content": "As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars. . I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!) . The resulting images were very similar. . Look here for Setup and Results . Loss = distance((style(reference_image) - style(generated_image)) + (distance(content(original_image) - content(generated_image)) original_image = a picture of an F1 car reference_image = a style image such as Picasso . Note to self: Put results on this page too. . . .",
+            "url": "https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html",
+            "relUrl": "/markdown/2020/05/18/neuralstyletransfer.html",
             "date": " • May 18, 2020"
         }
         

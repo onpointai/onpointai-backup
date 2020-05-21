@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T04:46:53-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T04:52:20-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
 
 &lt;p&gt;ML is a subset of AI (diagram of AI/ML/DL)&lt;/p&gt;
 
@@ -42,8 +42,8 @@ I used images of recent Racing Point and Renault F1 cars.&lt;/p&gt;
 
 &lt;p&gt;The resulting images were very similar.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onpointai/images/rp-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Racing Point&quot; /&gt;
-&lt;img src=&quot;/onpointai/images/renault-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Renault&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;../images/rp-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Racing Point&quot; /&gt;
+&lt;img src=&quot;../images/renault-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Renault&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1car-styletransfer&quot;&gt;Look here for Setup, code and Results&lt;/a&gt;&lt;/p&gt;
 
@@ -54,11 +54,7 @@ original_image = a picture of an F1 car
 reference_image = a style image such as Picasso
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-  &lt;h5 id=&quot;note-to-self-put-results-on-this-page-too&quot;&gt;Note to self: Put results on this page too.&lt;/h5&gt;
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
+&lt;hr /&gt;
 &lt;p&gt;&lt;img src=&quot;/images/aero-robot-with-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/images/onpointai-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars.</summary></entry><entry><title type="html">Predict F1 Car Constructor from Image</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html" rel="alternate" type="text/html" title="Predict F1 Car Constructor from Image" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html">&lt;p&gt;Predict which team a car belongs to by analysing an image. The image can be from any angle.
 This is an end-to-end example.&lt;/p&gt;
 

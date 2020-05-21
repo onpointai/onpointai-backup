@@ -38,7 +38,10 @@ Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_y
 
 ##### [Inspired by Fast.ai](https://www.fast.ai/2020/01/16/fast_template/)
 ---
-![](../images/wordcloud-1.png) &nbsp; &nbsp; &nbsp; &nbsp; ![](../images/wordcloud-2.png)
+Footnote: 1|Footnote: 2
+------ |-----
+![](../images/wordcloud-1.png)|![](../images/wordcloud-2.png)
+---
 
-![](../images/aero-robot-with-logo-small.png)                ![](../images/onpointai-logo-small.png)
+![](../images/aero-robot-with-logo-small.png) &nbsp;  ![](../images/onpointai-logo-small.png)
 ---

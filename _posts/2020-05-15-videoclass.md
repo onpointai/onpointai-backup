@@ -1,11 +1,13 @@
 ---
 toc: true
 layout: post
-description: Predict the constructor of the F1 car (image) 2017-2020 season
+description: Predict the sports activity in a short video clip
 categories: [markdown]
 title: Sports Video Classification - Placeholder
 ---
 # Sports Video Classification
+
+> This has tremendous potential for application in other areas
 
 ### Using Tensorflow and Keras
 

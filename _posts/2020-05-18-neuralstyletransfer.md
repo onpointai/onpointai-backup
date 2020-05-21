@@ -12,8 +12,8 @@ I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcou
 
 The resulting images were very similar.
 
-![]({{site.baseurl }}/images/rp-style-transfer.png "Racing Point")
-![]({{site.baseurl }}/images/renault-style-transfer.png "Renault")
+![](../images/rp-style-transfer.png "Racing Point")
+![](../images/renault-style-transfer.png "Renault")
 
 [Look here for Setup, code and Results](https://github.com/DexterDSilva/f1car-styletransfer)
 
@@ -25,7 +25,5 @@ original_image = a picture of an F1 car
 reference_image = a style image such as Picasso
 
 ```
-> ##### Note to self: Put results on this page too.
 ---
-
 ![](/images/aero-robot-with-logo-small.png)![](/images/onpointai-logo-small.png)

@@ -12,7 +12,10 @@ I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcou
 
 The resulting images were very similar.
 
-[Look here for Setup and Results](https://github.com/DexterDSilva/f1car-styletransfer)
+![]({{site.baseurl }}/images/rp-style-transfer.png "Racing Point")
+![]({{site.baseurl }}/images/renault-style-transfer.png "Renault")
+
+[Look here for Setup, code and Results](https://github.com/DexterDSilva/f1car-styletransfer)
 
 ```
 Loss = distance((style(reference_image) - style(generated_image)) +  

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T05:20:31-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T07:57:03-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
 
 &lt;p&gt;ML is a subset of AI (diagram of AI/ML/DL)&lt;/p&gt;
 
@@ -22,20 +22,20 @@
 &lt;p&gt;Example: A dataset containing images such as dog, cat, rabbit, parrot
 Each image contains only dog, cat, parrot rabbit&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/multi-label-img-class.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/onpointai/images/multi-label-img-class.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The above is know as multi-label image classification.&lt;/p&gt;
 
 &lt;p&gt;Question: Can we predict the genre of a movie by looking at the movie poster? And ofcourse a movie can belong to more than one genre.
-&lt;img src=&quot;/images/multi-label-img-class-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/onpointai/images/multi-label-img-class-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The key is in the output layer - use a sigmoid activation instead of softmax. With Softmax as the probablity of one increases the probability of the other classses decrease (becuase the sum must equal 1). With Sigmoid however the probabilities are independent of each other. So with sigmoid the architecture will internally create N models where N is the number of classes. Cool huh?!&lt;/p&gt;
 
 &lt;h3 id=&quot;results&quot;&gt;Results:&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/images/multi-label-op-1.png&quot; alt=&quot;&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;/onpointai/images/multi-label-op-1.png&quot; alt=&quot;&quot; /&gt;
 —&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/aero-robot-with-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/images/onpointai-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a tutorial from Analytics Vidhya</summary></entry><entry><title type="html">Style Transfer using Neural Networks</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html" rel="alternate" type="text/html" title="Style Transfer using Neural Networks" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html">&lt;p&gt;As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso!
+&lt;p&gt;&lt;img src=&quot;/onpointai/images/aero-robot-with-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/onpointai/images/onpointai-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a tutorial from Analytics Vidhya</summary></entry><entry><title type="html">Style Transfer using Neural Networks</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html" rel="alternate" type="text/html" title="Style Transfer using Neural Networks" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html">&lt;p&gt;As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso!
 I used images of recent Racing Point and Renault F1 cars.&lt;/p&gt;
 
 &lt;p&gt;I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)

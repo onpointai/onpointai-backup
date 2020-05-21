@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T10:41:35-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;The contents of this page should be treated as a set of flashcards with each giving some insight into the definition, structure and scope of AI tools in everyday use.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T10:45:43-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;The contents of this page should be treated as a set of flashcards with each giving some insight into the definition, structure and scope of AI tools in everyday use.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Note: Reinforcement Learning (think Apha Go) has no practical applications at the moment for me and will therefore not be discussed.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -241,14 +241,14 @@ Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tuto
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;Item1&lt;/th&gt;
-      &lt;th&gt;Item2&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Item1abcdefh&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Item2abggbjsjhdhsd&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;abc&lt;/td&gt;
-      &lt;td&gt;def&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;abc&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;def&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

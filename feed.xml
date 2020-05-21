@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T07:59:19-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T08:07:46-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
 
 &lt;p&gt;ML is a subset of AI (diagram of AI/ML/DL)&lt;/p&gt;
 
@@ -165,7 +165,7 @@ Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tuto
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Geoff Hinton:&lt;br /&gt;
-“Read enough to develop your intuitions, then trust your intuitions.”&lt;/p&gt;
+“Read enough sp you start developing intuitions and then trust your intuitions and go for it!.”&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Andrew Ng:&lt;br /&gt;
@@ -175,10 +175,7 @@ Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tuto
 
 &lt;hr /&gt;
 &lt;hr /&gt;
-&lt;h4 id=&quot;no_toc-ignore-stuff-below&quot;&gt;{:no_toc} Ignore stuff below.&lt;/h4&gt;
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;no_toc-stuff&quot;&gt;{:no_toc} Stuff&lt;/h4&gt;
+&lt;h4 id=&quot;ignore-stuff-below&quot;&gt;Ignore stuff below.&lt;/h4&gt;
 
 &lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
    &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
@@ -218,7 +215,7 @@ Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tuto
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/onpointai-logo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://onpointai.github.io/onpointai/jupyter/2020/02/20/test</id><content type="html" xml:base="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html">&lt;!--
+&lt;p&gt;&lt;img src=&quot;/onpointai/images/aerorobot-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/onpointai/images/onpointai-logo-small.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://onpointai.github.io/onpointai/jupyter/2020/02/20/test</id><content type="html" xml:base="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################

@@ -40,6 +40,6 @@ Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_y
 ---
 |:cowboy_hat_face:|:beers:|
 |:---:|:---:|
-![](../images/wordcloud-1.png)|![](../images/wordcloud-2.png)|
+|![](../images/wordcloud-1.png)|![](../images/wordcloud-2.png)|
 |![](../images/aero-robot-with-logo-small.png)|![](../images/onpointai-logo-small.png)|
 ---

@@ -9,9 +9,9 @@ As a workflow exercise I attempted to render the image of an F1 car in the style
 I used images of recent Racing Point and Renault F1 cars.
 
 I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)
-
 The resulting images were very similar.
-
+---
+Here are the examples:
 ![]({{site.baseurl}}/images/rp-style-transfer.png "Racing Point")
 ![]({{site.baseurl}}/images/renault-style-transfer.png "Renault")
 

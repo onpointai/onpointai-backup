@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T03:51:26-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T03:56:32-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
 
 &lt;p&gt;ML is a subset of AI (diagram of AI/ML/DL)&lt;/p&gt;
 
@@ -61,8 +61,8 @@ This is an end-to-end example.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1cars-detector&quot;&gt;Look here for all setup, code and results&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../images/f1carpred-fp-1.png&quot; alt=&quot;&quot; title=&quot;Start&quot; /&gt;
-&lt;img src=&quot;../images/f1carpred-fp-3.png&quot; alt=&quot;&quot; title=&quot;Output&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;(/onpointai/images/f1carpred-fp-1.png&quot; alt=&quot;&quot; title=&quot;Start&quot; /&gt;
+&lt;img src=&quot;/onpointai/images/f1carpred-fp-3.png&quot; alt=&quot;&quot; title=&quot;Output&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a good example of a complete workflow&lt;/p&gt;
 &lt;ul&gt;

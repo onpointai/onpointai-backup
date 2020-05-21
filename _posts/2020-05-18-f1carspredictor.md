@@ -10,7 +10,7 @@ This is an end-to-end example.
 
 [Look here for all setup, code and results](https://github.com/DexterDSilva/f1cars-detector)
 
-![](({{site.baseurl}}/images/f1carpred-fp-1.png "Start")
+![]({{site.baseurl}}/images/f1carpred-fp-1.png "Start")
 ![]({{site.baseurl}}/images/f1carpred-fp-3.png "Output")
 
 
@@ -35,7 +35,6 @@ Suggested Improvements:
  - [ ] Clean training data 
  - [ ] Overfit and then play around with hyperparameters
  - [ ] Give webapp better UI
- 
-> Note to self: Put results on this page too.
+
 ---
-  ![](/images/aero-robot-with-logo-small.png)![](/images/onpointai-logo-small.png)
+  ![]({{site.baseurl}}/images/aero-robot-with-logo-small.png)![]({{site.baseurl}}/images/onpointai-logo-small.png)

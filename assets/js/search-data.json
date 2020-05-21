@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Style Transfer using Neural Networks",
-            "content": "As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars. . I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!) The resulting images were very similar. — Here are the examples: . Look here for Setup, code and Results . Loss = distance((style(reference_image) - style(generated_image)) + (distance(content(original_image) - content(generated_image)) original_image = a picture of an F1 car reference_image = a style image such as Picasso . . .",
+            "content": "As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars. . I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!) The trained model is implemented using a webapp. The user is asked to select an image and the analysis is displayed. — Here are the examples: . Look here for Setup, code and Results . Loss = distance((style(reference_image) - style(generated_image)) + (distance(content(original_image) - content(generated_image)) original_image = a picture of an F1 car reference_image = a style image such as Picasso . . .",
             "url": "https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html",
             "relUrl": "/markdown/2020/05/18/neuralstyletransfer.html",
             "date": " • May 18, 2020"

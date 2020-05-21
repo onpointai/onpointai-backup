@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T05:03:21-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-21T05:20:31-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;My condensed notes on AI/ML ( live!)&lt;/p&gt;
 
 &lt;p&gt;ML is a subset of AI (diagram of AI/ML/DL)&lt;/p&gt;
 
@@ -39,7 +39,7 @@ Each image contains only dog, cat, parrot rabbit&lt;/p&gt;
 I used images of recent Racing Point and Renault F1 cars.&lt;/p&gt;
 
 &lt;p&gt;I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)
-The resulting images were very similar.
+The trained model is implemented using a webapp. The user is asked to select an image and the analysis is displayed.
 —
 Here are the examples:
 &lt;img src=&quot;/onpointai/images/rp-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Racing Point&quot; /&gt;

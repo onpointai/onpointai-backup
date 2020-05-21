@@ -10,8 +10,8 @@ This is an end-to-end example.
 
 [Look here for all setup, code and results](https://github.com/DexterDSilva/f1cars-detector)
 
-![](../images/f1carpred-fp-1.png "Start")
-![](../images/f1carpred-fp-3.png "Output")
+![](({{site.baseurl}}/images/f1carpred-fp-1.png "Start")
+![]({{site.baseurl}}/images/f1carpred-fp-3.png "Output")
 
 
 This is a good example of a complete workflow

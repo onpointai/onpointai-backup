@@ -68,10 +68,10 @@
   
     
         ,"post6": {
-            "title": "Videoclass",
-            "content": "Placeholder for Video Classification . Sports videos . . .",
-            "url": "https://onpointai.github.io/onpointai/2020/05/15/videoclass.html",
-            "relUrl": "/2020/05/15/videoclass.html",
+            "title": "Sports Video Classification - Placeholder",
+            "content": "Sports Video Classification . Using Tensorflow and Keras . Sports videos . Item1 Item2 . abc | def | . . .",
+            "url": "https://onpointai.github.io/onpointai/markdown/2020/05/15/videoclass.html",
+            "relUrl": "/markdown/2020/05/15/videoclass.html",
             "date": " • May 15, 2020"
         }
         

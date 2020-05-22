@@ -43,6 +43,6 @@ Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_y
 ![]({{site.baseurl }}/images/wordcloud-1-2.gif)
 
 
-![]({{site.baseurl}}/images/onpointai_logo.gif)
+![]({{"/"|relative_url}}/images/onpointai_logo.gif)
 
 

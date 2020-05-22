@@ -18,4 +18,4 @@ title: Sports Video Classification - Placeholder
 |abc|def|
 
 ---
-![]({{site.baseurl}}/images/onpointai_logo.gif)
+![]({{"/"|relative_url}}/images/onpointai_logo.gif)

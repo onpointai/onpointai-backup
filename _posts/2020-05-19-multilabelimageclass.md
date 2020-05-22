@@ -31,5 +31,5 @@ The key is in the output layer - use a sigmoid activation instead of softmax. Wi
 ### Results:
 ![]({{site.baseurl}}/images/multi-label-op-1.png)
 ---
-![]({{site.baseurl}}/images/onpointai_logo.gif)
+![]({{"/"|relative_url}}/images/onpointai_logo.gif)
 

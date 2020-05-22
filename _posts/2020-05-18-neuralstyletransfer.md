@@ -26,4 +26,4 @@ reference_image = a style image such as Picasso
 
 ```
 ---
-![]({{site.baseurl}}/images/onpointai_logo.gif)
+![]({{"/"|relative_url}}/images/onpointai_logo.gif)

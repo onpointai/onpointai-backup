@@ -41,6 +41,6 @@ Here is my [CV](https://drive.google.com/open?id=1RZlXHGuN3eCnlLjDyxDmgmECp5CQ_y
 :cowboy_hat_face:
 
 ![]({{site.baseurl }}/images/wordcloud-1-2.gif)
-![]({{ relative_url }}/images/onpointai-logo-small.gif)
+![]({{site.baseurl }}/images/onpointai-logo-small.gif)
 
 

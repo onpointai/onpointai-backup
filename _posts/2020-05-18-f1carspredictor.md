@@ -37,4 +37,4 @@ Suggested Improvements:
  - [ ] Give webapp better UI
 
 ---
-![]({{site.baseurl}}/images/onpointai_logo.gif)
+![]({{"/"|relative_url}}/images/onpointai_logo.gif)

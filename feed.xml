@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-23T12:21:54-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">Sports Video Classification - In Progress</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification.html" rel="alternate" type="text/html" title="Sports Video Classification - In Progress" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification.html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-23T12:22:28-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">Reference Material</title><link href="https://onpointai.github.io/onpointai/markdown/2020/12/31/welcome.html" rel="alternate" type="text/html" title="Reference Material" /><published>2020-12-31T00:00:00-06:00</published><updated>2020-12-31T00:00:00-06:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/12/31/welcome</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/12/31/welcome.html">&lt;p&gt;This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.&lt;/p&gt;
+
+&lt;h4 id=&quot;setup&quot;&gt;Setup&lt;/h4&gt;
+
+&lt;h4 id=&quot;tensorflow-or-pytorch&quot;&gt;Tensorflow or Pytorch?&lt;/h4&gt;
+
+&lt;h4 id=&quot;google-colab&quot;&gt;Google Colab&lt;/h4&gt;
+
+&lt;h4 id=&quot;i-love-articles-tutorials-videos-by-the-following&quot;&gt;I love articles, tutorials, videos by the following:&lt;/h4&gt;
+&lt;p&gt;Adrian Rosebrock &lt;a href=&quot;https://www.pyimagesearch.com&quot;&gt;Pyimagesearch&lt;/a&gt;. &lt;br /&gt;
+Andrej Karpathy &lt;a href=&quot;http://karpathy.github.io&quot;&gt;blog&lt;/a&gt;. &lt;br /&gt;
+Chris Olah &lt;a href=&quot;https://colah.github.io&quot;&gt;blog&lt;/a&gt;.&lt;br /&gt;
+Andrew Ng &lt;a href=&quot;https://www.coursera.org/instructor/andrewng&quot;&gt;Coursera&lt;/a&gt;.&lt;br /&gt;
+Francois Chollet &lt;a href=&quot;https://livebook.manning.com/book/deep-learning-with-python/about-this-book/&quot;&gt;Book&lt;/a&gt;.&lt;br /&gt;
+Jeremey Howard &lt;a href=&quot;https://www.fast.ai/about/#jeremy&quot;&gt;Fast.ai&lt;/a&gt;.&lt;br /&gt;
+Rachel Thomas &lt;a href=&quot;https://www.fast.ai/about/#rachel&quot;&gt;Fast.ai&lt;/a&gt;.&lt;br /&gt;
+Chris Albon &lt;a href=&quot;https://chrisalbon.com&quot;&gt;Great flashcards - Buy them!&lt;/a&gt;. &lt;br /&gt;
+Aakash Nain &lt;a href=&quot;https://www.jovian.ml&quot;&gt;Jovian&lt;/a&gt;.&lt;br /&gt;
+Hannah Fry [Makes number fun!]http://www.hannahfry.co.uk().&lt;br /&gt;
+Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tutorials&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;powerful-quotes&quot;&gt;Powerful Quotes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;F Chollet:&lt;br /&gt;
+“You don’t need to know everything. You  don’t really need a formal background in this or that – though it helps, you don’t even need a PhD. You do, however, need to be constantly learning, be curious, read books. Don’t be “too busy” to learn, or otherwise proud of your ignorance.”&lt;br /&gt;
+“Honestly, the question is not, and has never been, “ can ML replace radiologists/etc” (which won’t happen in the foreseeable future). The question is, how can radiology/etc utilise ML to improve outcomes, decrease the cost of car, and broaden accessibility.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Geoff Hinton:&lt;br /&gt;
+“Read enough sp you start developing intuitions and then trust your intuitions and go for it!.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Andrew Ng:&lt;br /&gt;
+“Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.”&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;h4 id=&quot;ignore-stuff-below&quot;&gt;Ignore stuff below.&lt;/h4&gt;
+
+&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
+   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;…and…&lt;/p&gt;
+
+&lt;div class=&quot;Toast&quot;&gt;
+   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
+   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Python code and output:&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
+&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;p&gt;| Tensorflow | Pytorch |
+|-|-|
+| Keras | Fastai |
+—
+&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.</summary></entry><entry><title type="html">Sports Video Classification - In Progress</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification.html" rel="alternate" type="text/html" title="Sports Video Classification - In Progress" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/21/videoclassification.html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The simplest way to classify the type of video is by examining individual frames of the video ie treat individual frames as images, classify the images and then do some sort of averaging or smoothing over a few frames to predict the current display.&lt;/p&gt;
 
 &lt;p&gt;Once we understand what goes on here  we can explore the &lt;img src=&quot;https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5&quot; alt=&quot;other&quot; /&gt; methods which take up more setup and compute.&lt;/p&gt;
@@ -98,7 +167,27 @@ Each image contains only dog, cat, parrot rabbit&lt;/p&gt;
 &lt;h3 id=&quot;results&quot;&gt;Results:&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/onpointai/images/multi-label-op-1.png&quot; alt=&quot;&quot; /&gt;
 —
-&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a tutorial from Analytics Vidhya</summary></entry><entry><title type="html">Predict F1 Car Constructor from Image</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html" rel="alternate" type="text/html" title="Predict F1 Car Constructor from Image" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html">&lt;p&gt;Predict which team a car belongs to by analysing an image. The image can be from any angle.
+&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a tutorial from Analytics Vidhya</summary></entry><entry><title type="html">Style Transfer using Neural Networks</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html" rel="alternate" type="text/html" title="Style Transfer using Neural Networks" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html">&lt;p&gt;As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso!
+I used images of recent Racing Point and Renault F1 cars.&lt;/p&gt;
+
+&lt;p&gt;I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)
+The trained model is implemented using a webapp. The user is asked to select an image and the analysis is displayed.
+—
+Here are the examples:
+&lt;img src=&quot;/onpointai/images/rp-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Racing Point&quot; /&gt;
+&lt;img src=&quot;/onpointai/images/renault-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Renault&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1car-styletransfer&quot;&gt;Look here for Setup, code and Results&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Loss = distance((style(reference_image) - style(generated_image)) +  
+        (distance(content(original_image) - content(generated_image))
+        
+original_image = a picture of an F1 car 
+reference_image = a style image such as Picasso
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars.</summary></entry><entry><title type="html">Predict F1 Car Constructor from Image</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html" rel="alternate" type="text/html" title="Predict F1 Car Constructor from Image" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html">&lt;p&gt;Predict which team a car belongs to by analysing an image. The image can be from any angle.
 This is an end-to-end example.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1cars-detector&quot;&gt;Look here for all setup, code and results&lt;/a&gt;&lt;/p&gt;
@@ -133,27 +222,7 @@ This is an end-to-end example.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Predict which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example.</summary></entry><entry><title type="html">Style Transfer using Neural Networks</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html" rel="alternate" type="text/html" title="Style Transfer using Neural Networks" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/neuralstyletransfer.html">&lt;p&gt;As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso!
-I used images of recent Racing Point and Renault F1 cars.&lt;/p&gt;
-
-&lt;p&gt;I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)
-The trained model is implemented using a webapp. The user is asked to select an image and the analysis is displayed.
-—
-Here are the examples:
-&lt;img src=&quot;/onpointai/images/rp-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Racing Point&quot; /&gt;
-&lt;img src=&quot;/onpointai/images/renault-style-transfer.png&quot; alt=&quot;&quot; title=&quot;Renault&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1car-styletransfer&quot;&gt;Look here for Setup, code and Results&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Loss = distance((style(reference_image) - style(generated_image)) +  
-        (distance(content(original_image) - content(generated_image))
-        
-original_image = a picture of an F1 car 
-reference_image = a style image such as Picasso
-
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">As a workflow exercise I attempted to render the image of an F1 car in the style of Picasso! I used images of recent Racing Point and Renault F1 cars.</summary></entry><entry><title type="html">Stochastic Gradient Descent</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html" rel="alternate" type="text/html" title="Stochastic Gradient Descent" /><published>2020-05-17T00:00:00-05:00</published><updated>2020-05-17T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html">&lt;p&gt;ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
+&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Predict which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example.</summary></entry><entry><title type="html">Stochastic Gradient Descent</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html" rel="alternate" type="text/html" title="Stochastic Gradient Descent" /><published>2020-05-17T00:00:00-05:00</published><updated>2020-05-17T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html">&lt;p&gt;ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
 If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss.
 The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.&lt;/p&gt;
 
@@ -198,76 +267,7 @@ def update():
 &lt;p&gt;&lt;a href=&quot;&amp;quot;https://github.githubassets.com/images/icons/emoji/bowtie.png?v8&amp;quot;&quot;&gt;D&lt;/a&gt;
 :bowtie:
 —
-&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss. The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.</summary></entry><entry><title type="html">Reference Material</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/17/awelcome.html" rel="alternate" type="text/html" title="Reference Material" /><published>2020-05-17T00:00:00-05:00</published><updated>2020-05-17T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/17/awelcome</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/17/awelcome.html">&lt;p&gt;This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.&lt;/p&gt;
-
-&lt;h4 id=&quot;setup&quot;&gt;Setup&lt;/h4&gt;
-
-&lt;h4 id=&quot;tensorflow-or-pytorch&quot;&gt;Tensorflow or Pytorch?&lt;/h4&gt;
-
-&lt;h4 id=&quot;google-colab&quot;&gt;Google Colab&lt;/h4&gt;
-
-&lt;h4 id=&quot;i-love-articles-tutorials-videos-by-the-following&quot;&gt;I love articles, tutorials, videos by the following:&lt;/h4&gt;
-&lt;p&gt;Adrian Rosebrock &lt;a href=&quot;https://www.pyimagesearch.com&quot;&gt;Pyimagesearch&lt;/a&gt;. &lt;br /&gt;
-Andrej Karpathy &lt;a href=&quot;http://karpathy.github.io&quot;&gt;blog&lt;/a&gt;. &lt;br /&gt;
-Chris Olah &lt;a href=&quot;https://colah.github.io&quot;&gt;blog&lt;/a&gt;.&lt;br /&gt;
-Andrew Ng &lt;a href=&quot;https://www.coursera.org/instructor/andrewng&quot;&gt;Coursera&lt;/a&gt;.&lt;br /&gt;
-Francois Chollet &lt;a href=&quot;https://livebook.manning.com/book/deep-learning-with-python/about-this-book/&quot;&gt;Book&lt;/a&gt;.&lt;br /&gt;
-Jeremey Howard &lt;a href=&quot;https://www.fast.ai/about/#jeremy&quot;&gt;Fast.ai&lt;/a&gt;.&lt;br /&gt;
-Rachel Thomas &lt;a href=&quot;https://www.fast.ai/about/#rachel&quot;&gt;Fast.ai&lt;/a&gt;.&lt;br /&gt;
-Chris Albon &lt;a href=&quot;https://chrisalbon.com&quot;&gt;Great flashcards - Buy them!&lt;/a&gt;. &lt;br /&gt;
-Aakash Nain &lt;a href=&quot;https://www.jovian.ml&quot;&gt;Jovian&lt;/a&gt;.&lt;br /&gt;
-Hannah Fry [Makes number fun!]http://www.hannahfry.co.uk().&lt;br /&gt;
-Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tutorials&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;powerful-quotes&quot;&gt;Powerful Quotes&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;F Chollet:&lt;br /&gt;
-“You don’t need to know everything. You  don’t really need a formal background in this or that – though it helps, you don’t even need a PhD. You do, however, need to be constantly learning, be curious, read books. Don’t be “too busy” to learn, or otherwise proud of your ignorance.”&lt;br /&gt;
-“Honestly, the question is not, and has never been, “ can ML replace radiologists/etc” (which won’t happen in the foreseeable future). The question is, how can radiology/etc utilise ML to improve outcomes, decrease the cost of car, and broaden accessibility.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Geoff Hinton:&lt;br /&gt;
-“Read enough sp you start developing intuitions and then trust your intuitions and go for it!.”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Andrew Ng:&lt;br /&gt;
-“Deep Learning is a superpower. With it you can make a computer see, synthesize novel art, translate languages, render a medical diagnosis, or build pieces of a car that can drive itself. If that isn’t a superpower, I don’t know what is.”&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;h4 id=&quot;ignore-stuff-below&quot;&gt;Ignore stuff below.&lt;/h4&gt;
-
-&lt;div class=&quot;Toast Toast--warning googoo&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-alert octicon octicon-alert&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 000 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 00.01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include alert boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;…and…&lt;/p&gt;
-
-&lt;div class=&quot;Toast&quot;&gt;
-   &lt;span class=&quot;Toast-icon&quot;&gt;&lt;svg class=&quot;octicon octicon-info octicon octicon-info&quot; viewBox=&quot;0 0 14 16&quot; version=&quot;1.1&quot; width=&quot;14&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M6.3 5.69a.942.942 0 01-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 01-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/span&gt;
-   &lt;span class=&quot;Toast-content&quot;&gt;You can include info boxes&lt;/span&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Python code and output:&lt;/p&gt;
-
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;# Prints '2'
-&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;2
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
-
-&lt;p&gt;| Tensorflow | Pytorch |
-|-|-|
-| Keras | Fastai |
-—
-&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a list of links to articles, blogposts, videos, tutorials that I have found very useful on my ML journey. It serves as a useful reference point and is ever-growing.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://onpointai.github.io/onpointai/jupyter/2020/02/20/test</id><content type="html" xml:base="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html">&lt;!--
+&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss. The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.</summary></entry><entry><title type="html">Fastpages Notebook Blog Post</title><link href="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html" rel="alternate" type="text/html" title="Fastpages Notebook Blog Post" /><published>2020-02-20T00:00:00-06:00</published><updated>2020-02-20T00:00:00-06:00</updated><id>https://onpointai.github.io/onpointai/jupyter/2020/02/20/test</id><content type="html" xml:base="https://onpointai.github.io/onpointai/jupyter/2020/02/20/test.html">&lt;!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################

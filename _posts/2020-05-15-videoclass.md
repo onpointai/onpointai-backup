@@ -42,17 +42,14 @@ The dataset used was a collection of images curated using Google image search.
 
 ## Results:
 
-[![Input](https://www.youtube.com/vi/TZhSxFWh7wc/3.jpg]https://www.youtube.com/watch?v=TZhSxFWh7wc)
-[![Preciction](https://www.youtube.com/vi/i9O1bb89Z9c/3.jpg]https://www.youtube.com/watch?v=i9O1bb89Z9c)
+[![Input](https://www.youtube.com/vi/TZhSxFWh7wc/3.jpg)](https://www.youtube.com/watch?v=TZhSxFWh7wc)
+[![Preciction](https://www.youtube.com/vi/i9O1bb89Z9c/3.jpg)](https://www.youtube.com/watch?v=i9O1bb89Z9c)
 
-[![Input](https://www.youtube.com/vi/HjaCPFLzzLI/3.jpg]https://www.youtube.com/watch?v=HjaCPFLzzLI)
-[![Precition](https://www.youtube.com/03uXXqwbA8/3.jpg]https://www.youtube.com/watch?v=03uXXqwbA8)
+[![Input](https://www.youtube.com/vi/HjaCPFLzzLI/3.jpg)](https://www.youtube.com/watch?v=HjaCPFLzzLI)
+[![Precition](https://www.youtube.com/03uXXqwbA8/3.jpg)](https://www.youtube.com/watch?v=03uXXqwbA8)
 
-[![Input](https://www.youtube.com/vi/QaEUxM0N0p8/3.jpg]https://www.youtube.com/watch?v=QaEUxM0N0p8)
-[![Prediction](https://www.youtube.com/G6YeY-KNuJM/3.jpg]https://www.youtube.com/watch?v=G6YeY-KNuJM)
+[![Input](https://www.youtube.com/vi/QaEUxM0N0p8/3.jpg)](https://www.youtube.com/watch?v=QaEUxM0N0p8)
+[![Prediction](https://www.youtube.com/G6YeY-KNuJM/3.jpg)](https://www.youtube.com/watch?v=G6YeY-KNuJM)
 
-
-
-https://www.youtube.com/watch?v=HjaCPFLzzLI
 ---
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)

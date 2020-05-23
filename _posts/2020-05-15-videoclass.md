@@ -49,8 +49,8 @@ The [repo](https://github.com/DexterDSilva/keras-video-classification) contqins 
               
 ---
 [![Input](http://img.youtube.com/vi/HjaCPFLzzLI/0.jpg)](http://www.youtube.com/watch?v=HjaCPFLzzLI "Input")  
-[![Prediction](http://img.youtube.com/vi/03uXXqwbA8/0.jpg)](http://www.youtube.com/watch?v=03uXXqwbA8 "Prediction")
-              
+[![Prediction](http://img.youtube.com/vi/U03uXXqwbA8/0.jpg)](http://www.youtube.com/watch?v=U03uXXqwbA8 "Prediction")
+        
 ---
 [![Input](http://img.youtube.com/vi/QaEUxM0N0p8/0.jpg)](http://www.youtube.com/watch?v=QaEUxM0N0p8 "Input")  
 [![Prediction](http://img.youtube.com/vi/G6YeY-KNuJM/0.jpg)](http://www.youtube.com/watch?v=G6YeY-KNuJM "Prediction")

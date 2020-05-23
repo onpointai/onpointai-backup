@@ -40,7 +40,7 @@ The dataset used was a collection of images curated using Google image search.
 │   │   ├── wwe [671 entries]    
 
 ## Setup
-The [repo](https://github.com/DexterDSilva/keras-video-classification) contqins the data, Colab Jupyter notebooks and trained weights for different training regimes.
+The [repo](https://github.com/DexterDSilva/keras-video-classification) contains the data, Colab Jupyter notebooks and trained weights for different training regimes.
 
 ## Results:
 

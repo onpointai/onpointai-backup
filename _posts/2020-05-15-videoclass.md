@@ -44,16 +44,16 @@ The [repo](https://github.com/DexterDSilva/keras-video-classification) contqins 
 
 ## Results:
 
-[![Input](http://img.youtube.com/vi/TZhSxFWh7wc/0.jpg)](http://www.youtube.com/watch?v=TZhSxFWh7wc "Input")  
-[![Prediction](http://img.youtube.com/vi/i9O1bb89Z9c/0.jpg)](http://www.youtube.com/watch?v=i9O1bb89Z9c "Prediction")
+[![](http://img.youtube.com/vi/TZhSxFWh7wc/0.jpg)](http://www.youtube.com/watch?v=TZhSxFWh7wc "Input")  
+[![](http://img.youtube.com/vi/i9O1bb89Z9c/0.jpg)](http://www.youtube.com/watch?v=i9O1bb89Z9c "Prediction")
 
 ---
-[![Input](http://www.youtube.com/vi/HjaCPFLzzLI/0.jpg)](http://www.youtube.com/watch?v=HjaCPFLzzLI "Input")  
-[![Prediction](http://www.youtube.com/vi/03uXXqwbA8/0.jpg)](http://www.youtube.com/watch?v=03uXXqwbA8 "Prediction")
+[![](http://www.youtube.com/vi/HjaCPFLzzLI/0.jpg)](http://www.youtube.com/watch?v=HjaCPFLzzLI "Input")  
+[![](http://www.youtube.com/vi/03uXXqwbA8/0.jpg)](http://www.youtube.com/watch?v=03uXXqwbA8 "Prediction")
 
 ---
-[![Input](http://www.youtube.com/vi/QaEUxM0N0p8/0.jpg)](http://www.youtube.com/watch?v=QaEUxM0N0p8 "Input")  
-[![Prediction](http://www.youtube.com/vi/G6YeY-KNuJM/0.jpg)](http://www.youtube.com/watch?v=G6YeY-KNuJM "Prediction")
+[![](http://www.youtube.com/vi/QaEUxM0N0p8/0.jpg)](http://www.youtube.com/watch?v=QaEUxM0N0p8 "Input")  
+[![](http://www.youtube.com/vi/G6YeY-KNuJM/0.jpg)](http://www.youtube.com/watch?v=G6YeY-KNuJM "Prediction")
 
 ---
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)

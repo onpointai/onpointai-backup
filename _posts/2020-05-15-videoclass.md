@@ -11,15 +11,36 @@ Once we understand what goes on here  we can explore the ![other](https://blog.c
 
 The main pacakeg here is [OpenCV](https://opencv.org), a library aimed at real-time computer vision tasks.
 
+The dataset used was a collection of images curated using Google image search.
+
+├── Sports-Type-Classifier  
+│   ├── data  
+│   │   ├── badminton [938 entries]  
+│   │   ├── baseball [746 entries]  
+│   │   ├── basketball [495 entries]  
+│   │   ├── boxing [705 entries]  
+│   │   ├── chess [481 entries]  
+│   │   ├── cricket [715 entries]  
+│   │   ├── fencing [635 entries]  
+│   │   ├── football [799 entries]  
+│   │   ├── formula1 [687 entries]  
+│   │   ├── gymnastics [719 entries]  
+│   │   ├── hockey [572 entries]  
+│   │   ├── ice_hockey [715 entries]  
+│   │   ├── kabaddi [454 entries]  
+│   │   ├── motogp [679 entries]  
+│   │   ├── shooting [536 entries]  
+│   │   ├── swimming [689 entries]  
+│   │   ├── table_tennis [713 entries]  
+│   │   ├── tennis [718 entries]  
+│   │   ├── volleyball [713 entries]  
+│   │   ├── weight_lifting [577 entries]   
+│   │   ├── wrestling [611 entries]  
+│   │   ├── wwe [671 entries]    
 
 
 
 
-> This has tremendous potential for application in other areas
-
-### Using Tensorflow and Keras
-
-### Sports videos
 
 |Item1abcdefh|Item2abggbjsjhdhsd|
 |:---:|---:|

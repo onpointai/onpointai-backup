@@ -41,11 +41,11 @@ The dataset used was a collection of images curated using Google image search.
 
 
 ## Results:
-[![](http://img.youtube.com/vi/TZhSxFWh7wc/0.jpg)](http://www.youtube.com/watch?v=TZhSxFWh7wc "Input")
-[![](http://img.youtube.com/vi/i9O1bb89Z9c/0.jpg)](http://www.youtube.com/watch?v=i9O1bb89Z9c "Prediction")
+[![Input](http://img.youtube.com/vi/TZhSxFWh7wc/0.jpg)](http://www.youtube.com/watch?v=TZhSxFWh7wc "Input")
+[![Prediction](http://img.youtube.com/vi/i9O1bb89Z9c/0.jpg)](http://www.youtube.com/watch?v=i9O1bb89Z9c "Prediction")
 
-[![](https://www.youtube.com/vi/HjaCPFLzzLI/0.jpg)](https://www.youtube.com/watch?v=HjaCPFLzzLI "Input")
-[![](https://www.youtube.com/03uXXqwbA8/0.jpg)](https://www.youtube.com/watch?v=03uXXqwbA8 "Prediction")
+[![Input](https://www.youtube.com/vi/HjaCPFLzzLI/0.jpg)](https://www.youtube.com/watch?v=HjaCPFLzzLI "Input")
+[![Prediction](https://www.youtube.com/03uXXqwbA8/0.jpg)](https://www.youtube.com/watch?v=03uXXqwbA8 "Prediction")
 
 [![Input](https://www.youtube.com/vi/QaEUxM0N0p8/3.jpg)](https://www.youtube.com/watch?v=QaEUxM0N0p8 "Input")
 [![Prediction](https://www.youtube.com/G6YeY-KNuJM/3.jpg)](https://www.youtube.com/watch?v=G6YeY-KNuJM "Prediction")

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-23T03:33:40-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;The contents of this page should be treated as a set of flashcards with each giving some insight into the definition, structure and scope of AI tools in everyday use.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-23T03:59:26-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">An Overview of AI/ML</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html" rel="alternate" type="text/html" title="An Overview of AI/ML" /><published>2020-05-20T00:00:00-05:00</published><updated>2020-05-20T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/20/what-is-ai.html">&lt;p&gt;The contents of this page should be treated as a set of flashcards with each giving some insight into the definition, structure and scope of AI tools in everyday use.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Note: Reinforcement Learning (think Apha Go) has no practical applications at the moment for me and will therefore not be discussed.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -222,13 +222,32 @@ Jason Brownlee &lt;a href=&quot;https://machinelearningmastery.com&quot;&gt;Tuto
 
 &lt;p&gt;The main pacakeg here is &lt;a href=&quot;https://opencv.org&quot;&gt;OpenCV&lt;/a&gt;, a library aimed at real-time computer vision tasks.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;This has tremendous potential for application in other areas&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The dataset used was a collection of images curated using Google image search.&lt;/p&gt;
 
-&lt;h3 id=&quot;using-tensorflow-and-keras&quot;&gt;Using Tensorflow and Keras&lt;/h3&gt;
-
-&lt;h3 id=&quot;sports-videos&quot;&gt;Sports videos&lt;/h3&gt;
+&lt;p&gt;├── Sports-Type-Classifier&lt;br /&gt;
+│   ├── data&lt;br /&gt;
+│   │   ├── badminton [938 entries]&lt;br /&gt;
+│   │   ├── baseball [746 entries]&lt;br /&gt;
+│   │   ├── basketball [495 entries]&lt;br /&gt;
+│   │   ├── boxing [705 entries]&lt;br /&gt;
+│   │   ├── chess [481 entries]&lt;br /&gt;
+│   │   ├── cricket [715 entries]&lt;br /&gt;
+│   │   ├── fencing [635 entries]&lt;br /&gt;
+│   │   ├── football [799 entries]&lt;br /&gt;
+│   │   ├── formula1 [687 entries]&lt;br /&gt;
+│   │   ├── gymnastics [719 entries]&lt;br /&gt;
+│   │   ├── hockey [572 entries]&lt;br /&gt;
+│   │   ├── ice_hockey [715 entries]&lt;br /&gt;
+│   │   ├── kabaddi [454 entries]&lt;br /&gt;
+│   │   ├── motogp [679 entries]&lt;br /&gt;
+│   │   ├── shooting [536 entries]&lt;br /&gt;
+│   │   ├── swimming [689 entries]&lt;br /&gt;
+│   │   ├── table_tennis [713 entries]&lt;br /&gt;
+│   │   ├── tennis [718 entries]&lt;br /&gt;
+│   │   ├── volleyball [713 entries]&lt;br /&gt;
+│   │   ├── weight_lifting [577 entries] &lt;br /&gt;
+│   │   ├── wrestling [611 entries]&lt;br /&gt;
+│   │   ├── wwe [671 entries]&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;

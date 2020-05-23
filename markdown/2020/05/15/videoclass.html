@@ -108,23 +108,38 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul class="section-nav">
-<li class="toc-entry toc-h3"><a href="#using-tensorflow-and-keras">Using Tensorflow and Keras</a></li>
-<li class="toc-entry toc-h3"><a href="#sports-videos">Sports videos</a></li>
 </ul><p>The simplest way to classify the type of video is by examining individual frames of the video ie treat individual frames as images, classify the images and then do some sort of averaging or smoothing over a few frames to predict the current display.</p>
 
 <p>Once we understand what goes on here  we can explore the <img src="https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5" alt="other"> methods which take up more setup and compute.</p>
 
 <p>The main pacakeg here is <a href="https://opencv.org">OpenCV</a>, a library aimed at real-time computer vision tasks.</p>
 
-<blockquote>
-  <p>This has tremendous potential for application in other areas</p>
-</blockquote>
+<p>The dataset used was a collection of images curated using Google image search.</p>
 
-<h3 id="using-tensorflow-and-keras">
-<a class="anchor" href="#using-tensorflow-and-keras" aria-hidden="true"><span class="octicon octicon-link"></span></a>Using Tensorflow and Keras</h3>
-
-<h3 id="sports-videos">
-<a class="anchor" href="#sports-videos" aria-hidden="true"><span class="octicon octicon-link"></span></a>Sports videos</h3>
+<p>├── Sports-Type-Classifier<br>
+│   ├── data<br>
+│   │   ├── badminton [938 entries]<br>
+│   │   ├── baseball [746 entries]<br>
+│   │   ├── basketball [495 entries]<br>
+│   │   ├── boxing [705 entries]<br>
+│   │   ├── chess [481 entries]<br>
+│   │   ├── cricket [715 entries]<br>
+│   │   ├── fencing [635 entries]<br>
+│   │   ├── football [799 entries]<br>
+│   │   ├── formula1 [687 entries]<br>
+│   │   ├── gymnastics [719 entries]<br>
+│   │   ├── hockey [572 entries]<br>
+│   │   ├── ice_hockey [715 entries]<br>
+│   │   ├── kabaddi [454 entries]<br>
+│   │   ├── motogp [679 entries]<br>
+│   │   ├── shooting [536 entries]<br>
+│   │   ├── swimming [689 entries]<br>
+│   │   ├── table_tennis [713 entries]<br>
+│   │   ├── tennis [718 entries]<br>
+│   │   ├── volleyball [713 entries]<br>
+│   │   ├── weight_lifting [577 entries] <br>
+│   │   ├── wrestling [611 entries]<br>
+│   │   ├── wwe [671 entries]</p>
 
 <table>
   <thead>

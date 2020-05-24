@@ -6,7 +6,7 @@ categories: [markdown]
 title: Multi-label Image Classification
 ---
 
-## Overview\  
+## Overview    
 This is a tutorial from [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/#)
 
 The dataset of images contain more than two categories ie it is not a simple either/or 
@@ -25,11 +25,11 @@ Question: Can we predict the genre of a movie by looking at the movie poster? An
 
 The key is in the output layer - use a sigmoid activation instead of softmax. With Softmax as the probablity of one increases the probability of the other classses decrease (becuase the sum must equal 1). With Sigmoid however the probabilities are independent of each other. So with sigmoid the architecture will internally create N models where N is the number of classes. Cool huh?!
 
-## Setup\   
+## Setup     
 For deatils of the model and data [see here](https://github.com/DexterDSilva/multi-label-img-class/tree/master)
 > Note: No attempt has been made to finetune the architecture and reduce the amount of overfitting and hence get a better training/validation loss.
 
-## Results\   
+## Results     
 ![]({{s"/"|relative_url}}/images/multi-label-op-1.png)
 ---
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)

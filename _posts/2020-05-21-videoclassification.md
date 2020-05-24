@@ -5,7 +5,7 @@ description: Predict the sports activity in a short video clip
 categories: [AI/ML, Video Classification]
 title: Sports Video Classification
 ---
-## Overview
+## Overview      
 The simplest way to classify the type of video is by examining individual frames of the video ie treat individual frames as images, classify the images and then do some sort of averaging or smoothing over a few frames to predict the current display.
 
 Once we understand what goes on here  we can explore the [other](https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5) methods which take up more setup and compute.
@@ -39,10 +39,10 @@ The dataset used was a collection of images curated using Google image search.
 │   │   ├── wrestling [611 entries]  
 │   │   ├── wwe [671 entries]    
 
-## Setup
+## Setup   
 The [repo](https://github.com/DexterDSilva/keras-video-classification) contains the data, Colab Jupyter notebooks and trained weights for different training regimes.
 
-## Results:
+## Results  
 
 [![Input](http://img.youtube.com/vi/TZhSxFWh7wc/0.jpg)](http://www.youtube.com/watch?v=TZhSxFWh7wc "Input")  
 [![Prediction](http://img.youtube.com/vi/i9O1bb89Z9c/0.jpg)](http://www.youtube.com/watch?v=i9O1bb89Z9c "Prediction")

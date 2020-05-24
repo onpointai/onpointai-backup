@@ -30,7 +30,9 @@ For deatils of the model and data [see here](https://github.com/DexterDSilva/mul
 > Note: No attempt has been made to finetune the architecture and reduce the amount of overfitting and hence get a better training/validation loss.
 
 ## Results     
-![]({{s"/"|relative_url}}/images/multi-label-op-1.png)
+![]({{"/"|relative_url}}/images/multi-label-op-1.png)
+
 ---
+
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)
 

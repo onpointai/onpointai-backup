@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-24T03:26:25-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">Sports Video Classification</title><link href="https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification.html" rel="alternate" type="text/html" title="Sports Video Classification" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification</id><content type="html" xml:base="https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification.html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://onpointai.github.io/onpointai/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onpointai.github.io/onpointai/" rel="alternate" type="text/html" /><updated>2020-05-24T05:01:08-05:00</updated><id>https://onpointai.github.io/onpointai/feed.xml</id><title type="html">onpointai</title><subtitle>My AI/ML journey</subtitle><entry><title type="html">Sports Video Classification</title><link href="https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification.html" rel="alternate" type="text/html" title="Sports Video Classification" /><published>2020-05-21T00:00:00-05:00</published><updated>2020-05-21T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification</id><content type="html" xml:base="https://onpointai.github.io/onpointai/ai/ml/video%20classification/2020/05/21/videoclassification.html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;The simplest way to classify the type of video is by examining individual frames of the video ie treat individual frames as images, classify the images and then do some sort of averaging or smoothing over a few frames to predict the current display.&lt;/p&gt;
 
 &lt;p&gt;Once we understand what goes on here  we can explore the &lt;a href=&quot;https://blog.coast.ai/five-video-classification-methods-implemented-in-keras-and-tensorflow-99cad29cc0b5&quot;&gt;other&lt;/a&gt; methods which take up more setup and compute.&lt;/p&gt;
@@ -112,13 +112,13 @@ reference_image = a style image such as Picasso
 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Overview</summary></entry><entry><title type="html">Predict F1 Car Constructor from Image</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html" rel="alternate" type="text/html" title="Predict F1 Car Constructor from Image" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/18/f1carspredictor.html">&lt;p&gt;Predict which team a car belongs to by analysing an image. The image can be from any angle.
-This is an end-to-end example.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Overview</summary></entry><entry><title type="html">Predict F1 Car Constructor from Image</title><link href="https://onpointai.github.io/onpointai/ai/ml/image%20classification/2020/05/18/f1carspredictor.html" rel="alternate" type="text/html" title="Predict F1 Car Constructor from Image" /><published>2020-05-18T00:00:00-05:00</published><updated>2020-05-18T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/ai/ml/image%20classification/2020/05/18/f1carspredictor</id><content type="html" xml:base="https://onpointai.github.io/onpointai/ai/ml/image%20classification/2020/05/18/f1carspredictor.html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/DexterDSilva/f1cars-detector&quot;&gt;Look here for all setup, code and results&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is an exercise based on Formula 1 cars and is  aimed at predicting which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example ir from gathering the dats, training a model, and deploying the trained model using a webapp on a local server.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onpointai//images/f1carpred-fp-1.png&quot; alt=&quot;&quot; title=&quot;Start&quot; /&gt;
-&lt;img src=&quot;/onpointai//images/f1carpred-fp-3.png&quot; alt=&quot;&quot; title=&quot;Output&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;setup&quot;&gt;Setup&lt;/h2&gt;
+
+&lt;p&gt;The training setup, data are in thei &lt;a href=&quot;https://github.com/DexterDSilva/f1cars-detector&quot;&gt;repo&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This is a good example of a complete workflow&lt;/p&gt;
 &lt;ul&gt;
@@ -138,6 +138,13 @@ This is an end-to-end example.&lt;/p&gt;
 
 &lt;p&gt;This is only meant for demo purposes and to motivate me to carry on with the ret of the course.&lt;/p&gt;
 
+&lt;h2 id=&quot;results&quot;&gt;Results&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onpointai//images/f1carpred-fp-1.png&quot; alt=&quot;&quot; title=&quot;Start&quot; /&gt;
+&lt;img src=&quot;/onpointai//images/f1carpred-fp-3.png&quot; alt=&quot;&quot; title=&quot;Output&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
 &lt;p&gt;Suggested Improvements:&lt;/p&gt;
 &lt;ul class=&quot;task-list&quot;&gt;
   &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Add more training data&lt;/li&gt;
@@ -147,7 +154,8 @@ This is an end-to-end example.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Predict which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example.</summary></entry><entry><title type="html">Stochastic Gradient Descent</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html" rel="alternate" type="text/html" title="Stochastic Gradient Descent" /><published>2020-05-17T00:00:00-05:00</published><updated>2020-05-17T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html">&lt;p&gt;ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
+
+&lt;p&gt;&lt;img src=&quot;/onpointai//images/onpointai_logo.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Overview</summary></entry><entry><title type="html">Stochastic Gradient Descent</title><link href="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html" rel="alternate" type="text/html" title="Stochastic Gradient Descent" /><published>2020-05-17T00:00:00-05:00</published><updated>2020-05-17T00:00:00-05:00</updated><id>https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd</id><content type="html" xml:base="https://onpointai.github.io/onpointai/markdown/2020/05/17/sgd.html">&lt;p&gt;ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
 If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss.
 The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.&lt;/p&gt;
 

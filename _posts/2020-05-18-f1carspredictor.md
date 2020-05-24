@@ -8,11 +8,11 @@ title: Predict F1 Car Constructor from Image
 
 ## Overview  
 
-This is an exercise based on Formula 1 cars and is  aimed at predicting which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example ir from gathering the dats, training a model, and deploying the trained model using a webapp on a local server.
+This is an exercise based on Formula 1 cars and is  aimed at predicting which team a car belongs to by analysing an image. The image can be from any angle. This is an end-to-end example ir from gathering the data, training a model and deploying the trained model using a webapp on a local server.
 
 ## Setup  
 
-The training setup, data are in thei [repo](https://github.com/DexterDSilva/f1cars-detector)
+The training setup, data are in this [repo](https://github.com/DexterDSilva/f1cars-detector)
 
 This is a good example of a complete workflow
   - collecting data using google web search (local) 
@@ -42,7 +42,6 @@ Suggested Improvements:
  - [ ] Clean training data 
  - [ ] Overfit and then play around with hyperparameters
  - [ ] Give webapp better UI
-
 ---
 
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)

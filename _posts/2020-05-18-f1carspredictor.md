@@ -42,6 +42,7 @@ This is only meant for demo purposes and to motivate me to carry on with the ret
  - [ ] Clean training data 
  - [ ] Overfit and then play around with hyperparameters
  - [ ] Give webapp better UI
+ 
 ---
 
 ![]({{"/"|relative_url}}/images/onpointai_logo.gif)

@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: Predict the constructor of the F1 car (image) 2017-2020 season
+description: Predict the constructor of the F1 car  from its image (2017-2020 season)
 categories: [AI/ML, Image classification]
 title: Predict F1 Car Constructor from Image
 ---
@@ -37,7 +37,7 @@ This is only meant for demo purposes and to motivate me to carry on with the ret
 
 ---
 
-Suggested Improvements:
+ > Suggested Improvements:
  - [ ] Add more training data
  - [ ] Clean training data 
  - [ ] Overfit and then play around with hyperparameters

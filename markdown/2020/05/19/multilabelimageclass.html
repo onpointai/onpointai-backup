@@ -108,15 +108,12 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul class="section-nav">
-<li class="toc-entry toc-h3"><a href="#results">Results:</a></li>
-</ul><p>This is a tutorial from <a href="https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/#">Analytics Vidhya</a></p>
-
-<p>For <a href="https://github.com/DexterDSilva/multi-label-img-class/tree/master">Setup see here</a></p>
-<blockquote>
-  <p>Note: No attempt has been made to finetune the architecture and reduce the amount of overfitting and hence get a better training/validation loss.</p>
-</blockquote>
-
-<p>Example Result at the bottom of this page.</p>
+<li class="toc-entry toc-h2"><a href="#overview">Overview\</a></li>
+<li class="toc-entry toc-h2"><a href="#setup">Setup\</a></li>
+<li class="toc-entry toc-h2"><a href="#results">Results\</a></li>
+</ul><h2 id="overview">
+<a class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview\</h2>
+<p>This is a tutorial from <a href="https://www.analyticsvidhya.com/blog/2019/04/build-first-multi-label-image-classification-model-python/#">Analytics Vidhya</a></p>
 
 <p>The dataset of images contain more than two categories ie it is not a simple either/or</p>
 
@@ -125,18 +122,25 @@ window.onload = wrap_img;
 <p>Example: A dataset containing images such as dog, cat, rabbit, parrot
 Each image contains only dog, cat, parrot rabbit</p>
 
-<p><img src="/onpointai/images/multi-label-img-class.png" alt=""></p>
+<p><img src="/onpointai//images/multi-label-img-class.png" alt=""></p>
 
 <p>The above is know as multi-label image classification.</p>
 
 <p>Question: Can we predict the genre of a movie by looking at the movie poster? And ofcourse a movie can belong to more than one genre.
-<img src="/onpointai/images/multi-label-img-class-2.png" alt=""></p>
+<img src="/onpointai//images/multi-label-img-class-2.png" alt=""></p>
 
 <p>The key is in the output layer - use a sigmoid activation instead of softmax. With Softmax as the probablity of one increases the probability of the other classses decrease (becuase the sum must equal 1). With Sigmoid however the probabilities are independent of each other. So with sigmoid the architecture will internally create N models where N is the number of classes. Cool huh?!</p>
 
-<h3 id="results">
-<a class="anchor" href="#results" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results:</h3>
-<p><img src="/onpointai/images/multi-label-op-1.png" alt="">
+<h2 id="setup">
+<a class="anchor" href="#setup" aria-hidden="true"><span class="octicon octicon-link"></span></a>Setup\</h2>
+<p>For deatils of the model and data <a href="https://github.com/DexterDSilva/multi-label-img-class/tree/master">see here</a></p>
+<blockquote>
+  <p>Note: No attempt has been made to finetune the architecture and reduce the amount of overfitting and hence get a better training/validation loss.</p>
+</blockquote>
+
+<h2 id="results">
+<a class="anchor" href="#results" aria-hidden="true"><span class="octicon octicon-link"></span></a>Results\</h2>
+<p><img src="/images/multi-label-op-1.png" alt="">
 —
 <img src="/onpointai//images/onpointai_logo.gif" alt=""></p>
 

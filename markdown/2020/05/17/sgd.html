@@ -114,13 +114,21 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul class="section-nav">
-<li class="toc-entry toc-h4"><a href="#references">References:</a></li>
+<li class="toc-entry toc-h2"><a href="#overview">Overview</a></li>
+<li class="toc-entry toc-h2"><a href="#minimising-the-loss">Minimising the loss</a></li>
+<li class="toc-entry toc-h2"><a href="#useful-references">Useful references</a></li>
 </ul>
+<h2 id="overview">
+<a class="anchor" href="#overview" aria-hidden="true"><span class="octicon octicon-link"></span></a>Overview</h2>
+
 <p>ML is basically this - you make a prediction, see how far that prediction is from the truth, fine-tune your prediction and keep going until the difference between between the prediction and the actual reaches an acceptable level. 
 If we imagine the loss function plotted as a U curve then we are trying to reach the bottom of the curve as quickly as possible ie minimise the loss. From our starting point, a guess, we then take a small step in the direction of lower loss.
 The small step is known as the learning rate and the direction of lower loss is worked out from the slope of the curve.</p>
 
-<p>Below is a regressing example. The pick dots are the intial set of data. To this we have to find a general approximation that will satisfy any new points.<br>
+<h2 id="minimising-the-loss">
+<a class="anchor" href="#minimising-the-loss" aria-hidden="true"><span class="octicon octicon-link"></span></a>Minimising the loss</h2>
+
+<p>Below is a regression example. The pink dots are the initial set of data. To this we have to find a general approximation that will satisfy any new points.<br>
 Our initial guess is the black line.<br>
 <img src="/onpointai//images/sgd-1.png" alt="" title="START"></p>
 
@@ -152,8 +160,9 @@ def update():
         a.sub_(lr * a.grad)
         a.grad.zero_()
 </code></pre></div></div>
-<h4 id="references">
-<a class="anchor" href="#references" aria-hidden="true"><span class="octicon octicon-link"></span></a>References:</h4>
+<h2 id="useful-references">
+<a class="anchor" href="#useful-references" aria-hidden="true"><span class="octicon octicon-link"></span></a>Useful references</h2>
+
 <ol>
   <li><a href="https://course.fast.ai/videos/?lesson=2">Fast.ai</a></li>
   <li><a href="https://machinelearningmastery.com/how-to-choose-loss-functions-when-training-deep-learning-neural-networks/">Machine Learning Mastery</a></li>

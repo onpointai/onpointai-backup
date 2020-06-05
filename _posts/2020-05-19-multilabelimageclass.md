@@ -26,7 +26,7 @@ Question: Can we predict the genre of a movie by looking at the movie poster? An
 The key is in the output layer - use a sigmoid activation instead of softmax. With Softmax as the probablity of one increases the probability of the other classses decrease (becuase the sum must equal 1). With Sigmoid however the probabilities are independent of each other. So with sigmoid the architecture will internally create N models where N is the number of classes. Cool huh?!
 
 ## Setup     
-For deatils of the model and data [see here](https://github.com/DexterDSilva/multi-label-img-class/tree/master)
+For details of the model and data see [repo](https://github.com/onpointai/multilabel-image-classification)
 > Note: No attempt has been made to finetune the architecture and reduce the amount of overfitting and hence get a better training/validation loss.
 
 ## Results     

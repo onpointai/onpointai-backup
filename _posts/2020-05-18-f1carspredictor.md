@@ -12,7 +12,7 @@ This is an exercise based on Formula 1 cars and is  aimed at predicting which te
 
 ## Setup  
 
-The training setup, data are in this [repo](https://github.com/DexterDSilva/f1cars-detector)
+The training setup, data are in this [repo](https://github.com/onpointai/f1cars-detector)
 
 This is a good example of a complete workflow
   - collecting data using google web search (local) 

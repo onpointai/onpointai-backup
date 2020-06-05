@@ -20,7 +20,7 @@ As a workflow exercise I attempted to render the image of an F1 car in the style
 I used images of recent Racing Point and Renault F1 cars.
 
 ## Setup  
-The notebook, models and data are contained [here](https://github.com/DexterDSilva/f1car-styletransfer)
+The notebook, models and data are contained [here](https://github.com/onpointai/f1car-style-transfer)
 
 I trained it on Google Colab using both Tensorflow and Pytorch (separately ofcourse!)
 The trained model is implemented using a webapp. The user is asked to select an image and the analysis is displayed.

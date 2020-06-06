@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: Predict the sports activity in a short video clip
+image: images/videoclassif.png
 categories: [AI/ML, Video Classification]
 title: Sports Video Classification
 ---

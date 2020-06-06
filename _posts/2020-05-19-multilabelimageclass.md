@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: Desc - Movie genre classification using movie posters
+image: images/multilabel.png
 categories: [AI/ML, Multi-label image classification]
 title: Multi-label Image Classification
 ---

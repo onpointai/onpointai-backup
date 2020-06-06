@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: Predict the constructor of the F1 car  from its image (2017-2020 season)
+image: images/f1cardpred.png
 categories: [AI/ML, Image classification]
 title: Predict F1 Car Constructor from Image
 ---

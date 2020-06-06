@@ -2,6 +2,7 @@
 toc: true
 layout: post
 description: Desc - Render F1 car images in the style of Picasso
+image: images/styletransfer.png
 categories: [AI/ML, Style Transfer]
 title: Style Transfer using Neural Networks
 ---
